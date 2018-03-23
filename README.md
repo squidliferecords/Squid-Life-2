@@ -1,6 +1,15 @@
-# Project Title
+# Squid Life
 
-One Paragraph of project description goes here
+Squid Life 2 coming soon...
+
+## Join the Wave 
+
+## Built With
+
+* [Squid Life IG](http://www.instagram.com/squidliferecords/)
+* [Squid Life Youtube](http://www.youtube.com/squidliferecords/) 
+* [Squid Life Twitter](https://twitter.com/squidlife2/) 
+* [Squid Life SoundCloud](https://soundcloud.com/squidlife/) 
 
 ## Getting Started
 
